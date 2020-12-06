@@ -1,8 +1,11 @@
-Origin: <Your Repo’s Name>
-Label: <Your Repository’s Label >
+Origin: shaho's repo
+Label: shaho's repo
 Suite: stable
 Version: 1.0
-Codename: cydia-ios
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: <Your Repo’s Display Name>
+Description: a snazzy repo
+MD5Sum:
+ ff1b28d837de993208bacf8ca5d342b5 456 Packages
+ 73800ececb23b15d0d9c5241dc3a4869 371 Packages.bz2
